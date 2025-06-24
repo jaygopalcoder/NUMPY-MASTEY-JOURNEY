@@ -1,4 +1,4 @@
-# NumPy Mastery Projects 🚀
+# 🔢 NumPy Mastery Projects 
 
 **Author:** \[JAY GOPAL DEY] 
 **Learning Path:** Preparing for EPFL + FAANG Internship
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies:
+## 👨‍💻⚙️ Technologies:
 
 * Python
 * NumPy
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Project Highlights:
+## ✒️ Project Highlights:
 
 ### 1️⃣ 3D Array Manipulation
 
@@ -77,7 +77,7 @@ relu_out = np.maximum(0, out)
 
 ---
 
-## 🚀 Next Steps:
+## 🚶‍♂️‍➡️ Next Steps:
 
 * Pandas Mastery
 * Full ML Projects (Titanic, House Prices, CIFAR10)
