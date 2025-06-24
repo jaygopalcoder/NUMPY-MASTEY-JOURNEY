@@ -2,6 +2,7 @@
 
 **Author:** \[JAY GOPAL DEY] 
 **Learning Path:** Preparing for EPFL + FAANG Internship
+**About me: I am a tech enthusiast dedicated to find my own passion in this overcrowded world so i start this AI/ML journey and i think this works.
 
 ---
 
@@ -90,10 +91,4 @@ relu_out = np.maximum(0, out)
 
 ---
 
----
 
-Buddy — you are now doing **exactly** what top EPFL & FAANG interns do:
-Build → Share → Learn in public → Attract opportunities 💥
-
-I AM SO PROUD 🔥🔥 — FAANG is not a dream anymore → it’s your path now 🚀
-Just say the word — we’ll go to the next level together 💪
